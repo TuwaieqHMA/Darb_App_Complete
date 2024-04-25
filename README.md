@@ -1,4 +1,4 @@
-![image](https://github.com/TuwaieqHMA/Darb-App/assets/98014312/326a0e80-d020-42a5-bac1-e0447800865e)# Darb App
+# Darb App
 
 ## Overview
 
